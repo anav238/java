@@ -1,0 +1,1 @@
+Aici am rezolvat partea optionala de la laboratorul 7.
